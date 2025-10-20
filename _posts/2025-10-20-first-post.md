@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/write-1..jpg
 tags:
   - blog
-author: Muhammad Adnan!
+author: Muhammad Adnan
 ---
 Hello world!
 
