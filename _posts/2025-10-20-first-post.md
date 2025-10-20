@@ -10,3 +10,6 @@ tags:
 author: Muhammad Adnan!
 ---
 Hello world!
+
+The first post i've launched today! And i will write something from here using 2 languages, English and Indonesian. Of course because i am Indonesian.
+
